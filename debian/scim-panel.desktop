@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=SCIM Input Method
+Name[nl]=SCIM Invoer-methode
+Comment=Configure the Smart Common Input Method platform
+Comment[nl]=Het Smart Common Input Method platform instellen
+Exec=/usr/bin/scim -d
+Icon=keyboard
+Terminal=false
+Type=Application
+StartupNotify=true
+NotShowIn=KDE;
+X-Ubuntu-Gettext-Domain=scim
+
