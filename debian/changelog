@@ -1,3 +1,9 @@
+scim (1.4.17-1blankon2) tambora; urgency=medium
+
+  * Change exe in scim-panel.desktop
+
+ -- Syai Mif <syaimif@localhost>  Thu, 23 Jun 2016 13:24:54 +0700
+
 scim (1.4.17-1blankon1) tambora; urgency=medium
 
   * Add scim-panel.desktop
