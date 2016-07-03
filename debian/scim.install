@@ -28,5 +28,6 @@ debian/scim-panel.desktop /etc/xdg/autostart
 usr/share/locale/*/LC_MESSAGES/scim.mo
 usr/share/pixmaps/scim-setup.png
 usr/share/scim/icons/*.png
+debian/keyboard.png usr/share/scim/icons
 
 debian/bug/script usr/share/bug/scim
