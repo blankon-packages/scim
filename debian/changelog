@@ -1,3 +1,9 @@
+scim (1.4.17-1blankon4) tambora; urgency=medium
+
+  * X-GNOME-Autostart-enabled=true
+
+ -- Mijortsa <mijortsa@localhost>  Mon, 04 Jul 2016 12:04:02 +0700
+
 scim (1.4.17-1blankon3) tambora; urgency=medium
 
   * Add icons

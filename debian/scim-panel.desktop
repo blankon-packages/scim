@@ -10,4 +10,5 @@ Type=Application
 StartupNotify=true
 NotShowIn=KDE;
 X-Ubuntu-Gettext-Domain=scim
+X-GNOME-Autostart-enabled=true
 
