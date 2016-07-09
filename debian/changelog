@@ -1,3 +1,9 @@
+scim (1.4.17-1blankon5) tambora; urgency=medium
+
+  * Drop scim-panel.desktop 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 09 Jul 2016 19:11:27 +0700
+
 scim (1.4.17-1blankon4) tambora; urgency=medium
 
   * X-GNOME-Autostart-enabled=true
