@@ -1,3 +1,9 @@
+scim (1.4.17-1blankon6) tambora; urgency=medium
+
+  * Add scim-panel.desktop
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 13 Jul 2016 12:44:22 +0700
+
 scim (1.4.17-1blankon5) tambora; urgency=medium
 
   * Drop scim-panel.desktop 
